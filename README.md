@@ -15,7 +15,7 @@
 
 ハンズオンではRPG(OPMおよびILE)、CL(ILE)、Excel VBAなどのプログラム言語を利用します。ソースの解説は行いません。
 
-ILE-RPGのコーディング方針は、YouTube掲載の動画「ILE RPG再考 概説編」(https://www.youtube.com/watch?v=kteDwnNSzP0)を参照ください。
+ILE-RPGのコーディング方針は、YouTube掲載の動画「ILE RPG再考 概説編」([https://www.youtube.com/watch?v=kteDwnNSzP0](https://www.youtube.com/watch?v=kteDwnNSzP0))を参照ください。
 
 ハンズオンの配布物はハンズオン時点で参加者が属する組織(企業、団体、教育機関など)内でのみ利用が許諾されます。コードの改変は自由ですが、他の組織に配布・販売する事は禁止です。
 
